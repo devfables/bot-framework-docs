@@ -19,7 +19,7 @@ Most applications start with a main screen where users initially land and provid
 Like apps and websites, bots have a UI, but it is made up of **dialogs**, rather than screens. 
 Dialogs enable the bot developer to logically separate various areas of bot functionality and guide conversational flow. For example, you may design one dialog to contain the logic that helps the user browse for products and a separate dialog to contain the logic that helps the user create a new order. 
 
-Dialogs may or may not have graphical interfaces. They may contain buttons, text, and other elements, or be entirely speech-based. Dialogs also contain actions to perform tasks such as invoking other dialogs or processing user input.
+esDialogs may or may not have graphical interfaces. They may contain buttons, text, and other elements, or be entirely speech-based. Dialogs also contain actions to perform tasks such as invoking other dialogs or processing user input.
 
 ## Using dialogs to manage conversation flow
 
@@ -70,4 +70,4 @@ There is no *right* answer to this question, as the best solution will depend up
 
 Managing the user's navigation across dialogs and designing conversation flow in a manner that enables 
 users to achieve their goals (even in a non-linear fashion) is a fundamental challenge of bot design. 
-The [next article](~/bot-design-navigation.md) reviews some common pitfalls of poorly designed navigation and discuss strategies for avoiding those traps. 
+The [next article](~/bot-design-navigation.md) reviews some common pitfalls of poorly designed navigation and discusses strategies for avoiding those traps. 
